@@ -81,5 +81,5 @@ function collision(head, array) {
 
 // Start the game
 const game = setInterval(draw, 100);
-console.log("Hello, World!");
-document.write("Hello, World!");
+console.log("Press one of the arrow keys to begin!");
+document.write("Press one of the arrow keys to begin!");
